@@ -1,2 +1,7 @@
 a mi me gustan mucho los gatitos
+<<<<<<< HEAD
 mi gata se llama cleo
+=======
+
+a mi me gusta programar.
+>>>>>>> e2870377b3d1fac7a16e00557c29dddf624178ba
